@@ -103,4 +103,4 @@ Many of our Rynvo clients require a streamlined solution to manage their DNS set
 
 The Custom DNS Manager for Rynvo Clients successfully streamlines DNS management while enforcing strict security protocols. By leveraging cutting-edge technologies such as Cloudflare, React, Tailwind CSS, and Supabase, we have created a secure, user-friendly tool that meets the unique needs of our managed service clients.
 
-For further information or to discuss potential collaborations, please contact [Your Contact Information].
+For further information or to discuss potential collaborations, please contact [hello@rynvo.media](mailto:hello@rynvo.media).
